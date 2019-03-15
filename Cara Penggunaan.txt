@@ -1,0 +1,23 @@
+import sql dengan nama database db_rpl;
+
+lalu buka file index.php melalui localhost..
+
+ket:
+Admin dapat melihat, menambah, mengedit dan menghapus..
+
+User hanya dapat melihat, edit
+//untuk membuat user harus daftar dulu pada form pendaftaran
+
+level ADMIN:
+username = admin
+password = admin
+
+level user (contoh):
+username = angga
+password = 123
+username = bagas
+password = 123
+username = caca
+password = 123
+username = dimas
+password = 123
